@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = higgjd@gmail.com
+	name = Jenny Higgins
